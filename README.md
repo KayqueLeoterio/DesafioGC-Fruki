@@ -1,7 +1,15 @@
 # Desafio GC Fruki
 Recomendador de produtos personalizado por CNPJ, integrado ao WhatsApp, usando histórico de compras, produtos relacionados, previsão climática e datas comemorativas.
 
+## Backend
+
+Para rodar o backend da aplicação, siga os passos abaixo
+
 **Passo 1**
+
+Instale o Java 21
+
+**Passo 2**
 
 Usando Docker, instale o banco de dados e configure o banco de dados Postgre e o pgAdmin usandos os comandos abaixo
 
